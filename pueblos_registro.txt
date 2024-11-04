@@ -1,0 +1,9 @@
+### Pueblo: Rocaalta ###
+Número de habitantes: 7
+Habitantes:
+- Ana Martínez
+- Beatriz López
+- Carlos Ruiz
+- David Martín
+- Elena Torres
+

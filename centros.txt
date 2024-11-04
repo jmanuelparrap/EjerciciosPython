@@ -1,0 +1,15 @@
+{
+  "t": 2,
+  "root": {
+    "leaf": true,
+    "keys": [
+      1000,
+      1000
+    ],
+    "names": [
+      "centro patagonia",
+      "sanfrancisco"
+    ],
+    "children": []
+  }
+}
